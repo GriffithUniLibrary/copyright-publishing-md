@@ -12,6 +12,8 @@ This course covers the nature of copyright and the ownership of original work, w
 ## Introduction
 
 <iframe src="https://player.vimeo.com/video/472472956" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+[Download transcript](content/Video 1.docx) 
  
 ## What is copyright?
 
