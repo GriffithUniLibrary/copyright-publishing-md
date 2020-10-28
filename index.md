@@ -5,9 +5,9 @@ layout: default
 
 # Copyright, Publishing and Open Access considerations
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="nathan-campus-night.jpg" alt="intro image here" caption="Griffith University Nathan Campus" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+This course covers the nature of copyright and the ownership of original work, what material you can use in your research, and different publishing models, including avoiding publishing scams.
 
 ## Introduction
 
@@ -51,9 +51,11 @@ Fun!
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
+<!--
 {% include toc.html %}
+-->
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [GitHub](http://www.github.com/), {{ site.pub_year }}.
 
 ------
 
