@@ -5,7 +5,7 @@ layout: default
 
 # Copyright, Publishing and Open Access Considerations
 
-{% include figure.html img="limesurvey-logo.jpg" alt="intro image here" caption="LimeSurvey logo" width="100%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="LimeSurvey logo" width="100%" %}
 
 Welcome to this Griffith resource on Copyright, Publishing and Open Access Considerations for researchers. 
 
